@@ -1,3 +1,4 @@
+//DEBORAH NERI DOS REIS
 //Retorna o cálculo simples de uma idade (recebida em dias inteiros) subdividido em anos, meses e dias.
 #include <stdio.h>
 
