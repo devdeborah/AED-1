@@ -1,3 +1,4 @@
+//Calcula a área de uma circunferência a partir de um raio R.
 #include <stdio.h>
 #include <math.h>
  
